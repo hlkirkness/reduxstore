@@ -43,7 +43,7 @@ function Nav() {
     <header className="flex-row px-1">
       <h1>
         <Link to="/">
-          -Shop-Shop
+          Shop-Shop
         </Link>
       </h1>
 
