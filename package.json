@@ -1,0 +1,24 @@
+{
+  "name": "reduxstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlkirkness/reduxstore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlkirkness/reduxstore/issues"
+  },
+  "homepage": "https://github.com/hlkirkness/reduxstore#readme",
+  "dependencies": {
+    "concurrently": "^6.3.0",
+    "graphql": "^16.0.0",
+    "if-env": "^1.0.4"
+  }
+}
