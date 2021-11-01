@@ -19,6 +19,7 @@
   "dependencies": {
     "concurrently": "^6.3.0",
     "graphql": "^16.0.0",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "stripe": "^8.184.0"
   }
 }
